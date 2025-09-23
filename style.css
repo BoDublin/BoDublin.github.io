@@ -1,10 +1,13 @@
 body {
   display: flex;
+  background-color: darkgrey;
 }
 
-.box {
-  height: 200px;
+.topbar {
+/*  height: 200px;
   width: 200px;
-  background-color: #0071FF;
+  background-color: #0071FF; */
+  background-color: grey;
+  color: white;
   font-size: 40pt;
  }

@@ -20,7 +20,10 @@ lightgallery: true
 hiddenFromHomePage: false
 ---
 
-<!-- {{< figure src="/images/MiahTayTayInBlue.webp" alt="/images/MiahTayTayInBlue.webp" title="MiahTayTayInBlue" >}} -->
+When will enough be enough?
+
+<!--more-->
+
 I just don't see why it is so difficult for people to see some of the things that I can't stop Mice Elf from seeing. I do not expect everyone to be like me, but it sure would be nice to have a few more that are at least capable of grasping some of these concepts.
 
 

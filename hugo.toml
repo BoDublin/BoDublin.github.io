@@ -205,7 +205,7 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
         # Home page posts
         [languages.en.params.home.posts]
         # FLC
-          enable = false
+          enable = true
           # special amount of posts in each home posts page
           paginate = 6
           # display image-preview
@@ -601,7 +601,7 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
       logo = ""
       # title name
       # 标题名称
-      name = "FeelIt"
+      name = "www.FoolishLee.com"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='fa-solid fa-hand-holding-heart fa-fw'></i>"
@@ -610,7 +610,8 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
       post = ""
       # whether to use typeit animation for title name
       # 是否为标题显示打字机动画
-      typeit = false
+      # FLC
+      typeit = true
       # whether to show RSS icon
       # 是否显示RSS图标
       rss = true
@@ -633,7 +634,7 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
     author = true
     # site creation time
     # 网站创立年份
-    since = 2019
+    since = 2026
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
@@ -685,7 +686,8 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
   [params.page]
     # whether to hide a page from home page
     # 是否在主页隐藏一篇文章
-    hiddenFromHomePage = false
+    # FLC
+    hiddenFromHomePage = true
     # whether to hide a page from search results
     # 是否在搜索结果中隐藏一篇文章
     hiddenFromSearch = false

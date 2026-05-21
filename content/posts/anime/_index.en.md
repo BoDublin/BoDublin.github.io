@@ -1,8 +1,8 @@
 ---
-weight: 7
+weight: 6
 title: "Tinkering With Anime Pictures and Hugo"
-date: 2026-05-21T16:29:41+08:00
-lastmod: 2026-05-21T16:29:41+08:00
+date: 2026-05-21T15:29:41-04:00
+lastmod: 2026-05-21T15:29:41-04:00
 draft: false
 author: "FoolishLee"
 authorLink: "https://www.FoolishLee.com"
@@ -18,6 +18,10 @@ categories: ["tinkering"]
 
 lightgallery: true
 hiddenFromHomePage: false
+---
+
+{{< image src="/images/MiahTayTayInBlue.webp" >}}
+
 ---
 
 {{< image src="MiahTayTayInBlue.webp" >}}

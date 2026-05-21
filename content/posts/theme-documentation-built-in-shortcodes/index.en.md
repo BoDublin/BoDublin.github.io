@@ -160,9 +160,9 @@ The rendered output looks like this:
 Example `youtube` input:
 
 ```markdown
-{{</* youtube w7Ft2ymGmfc */>}}
+{{</* youtube gE2hoEhd94I */>}}
 ```
 
 The rendered output looks like this:
 
-{{< youtube w7Ft2ymGmfc >}}
+{{< youtube gE2hoEhd94I >}}

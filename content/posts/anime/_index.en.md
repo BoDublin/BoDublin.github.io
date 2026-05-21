@@ -20,3 +20,4 @@ lightgallery: true
 hiddenFromHomePage: false
 ---
 
+{{< image src="MiahTayTayInBlue.webp" >}}

@@ -11,7 +11,7 @@ theme = "FeelIt"
 
 # website title
 # 网站标题
-title = "www.BoDublin.com"
+title = "www.FoolishLee.com"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -109,13 +109,13 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
       pagerSize = 12
     [languages.en.params]
       # site description
-      description = "About FeelIt Theme"
+      description = "Every Wise Man was once a Fool"
       # site keywords
       keywords = ["Theme", "Hugo"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "FeelIt"
+        title = "www.FoolishLee.com"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -193,9 +193,9 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
           # URL of avatar shown in home page
           avatarURL = "/images/avatar.webp"
           # title shown in home page (HTML format is supported)
-          title = ""
+          title = "www.FoolishLee.com"
           # subtitle shown in home page (HTML format is supported)
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "Where Clowning Around is Serious Business!"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -204,7 +204,8 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
           disclaimer = ""
         # Home page posts
         [languages.en.params.home.posts]
-          enable = true
+        # FLC
+          enable = false
           # special amount of posts in each home posts page
           paginate = 6
           # display image-preview
@@ -572,7 +573,7 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
   # Author config
   # 作者配置
   [params.author]
-    name = "xxxx"
+    name = "FoolishLee"
     email = ""
     link = ""
 

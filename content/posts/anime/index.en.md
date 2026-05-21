@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 1
 title: "Tinkering With Anime Pictures and Hugo"
 date: 2026-05-21T15:29:41-04:00
 lastmod: 2026-05-21T15:29:41-04:00
@@ -20,8 +20,8 @@ lightgallery: true
 hiddenFromHomePage: false
 ---
 
-{{< image src="/images/MiahTayTayInBlue.webp" >}}
+{{< figure src="/images/MiahTayTayInBlue.webp" alt="/images/MiahTayTayInBlue.webp" title="MiahTayTayInBlue" >}}
 
 ---
 
-{{< image src="MiahTayTayInBlue.webp" >}}
+{{< figure src="MiahTayTayInBlue.webp" alt="/MiahTayTayInBlue.webp" title="Miah Tay Tay" >}}

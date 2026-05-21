@@ -45,7 +45,8 @@ Example `figure` input:
 
 The rendered output looks like this:
 
-{{< figure src="/images/lighthouse.jpg" alt="/images/lighthouse.jpg" title="Lighthouse (figure)" >}}
+<!-- {{< figure src="/images/lighthouse.jpg" alt="/images/lighthouse.jpg" title="Lighthouse (figure)" >}} -->
+{{< figure src="/images/MiahTayTay.png" alt="/images/MiahTayTay.png" title="MiahTayTay (figure)" >}}
 
 The HTML looks like this:
 
